@@ -46,3 +46,5 @@ Blender and Unreal, and projection-mapped dance installations. Eagle Scout. Adop
 Table tennis obsessive.
 
 **Open to consulting on agent systems — particularly desktop and legacy automation.**
+
+<!-- profile -->
